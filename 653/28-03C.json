@@ -1,0 +1,73 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "13 xtals", 
+    "commit": "f4e93ae82f0ebc643bab3ce8c7d81f0cf41d00e9", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 190.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 30.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 400.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 825.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "65328", 
+    "increment": 2, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-286", 
+    "irradiation_level": "B", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "Feldspar", 
+    "measurement": "jan_unknown400_120.py", 
+    "project": "Gona", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Gona", 
+    "sample": "Gon ND-15-24", 
+    "spec_sha": "bb67633234757334b485fee4336b3dd94f8d4555", 
+    "timestamp": "2016-09-26T17:39:56.941753", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "e7e65310-4b64-4d67-a146-b4c87886b86f"
+}

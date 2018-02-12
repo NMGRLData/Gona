@@ -1,0 +1,73 @@
+{
+    "aliquot": 2, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "38 xtals", 
+    "commit": "31dc994d9bf1f3e51de289b90586c7dac9419ccd", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 190.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 400.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 825.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "65397", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-287", 
+    "irradiation_level": "G", 
+    "irradiation_position": 2, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "", 
+    "measurement": "jan_unknown600_180.py", 
+    "project": "", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Gona", 
+    "sample": "Gon 15ND-15", 
+    "spec_sha": "c0f93fb87f27cb706136aea3cb095b39a8b910f6", 
+    "timestamp": "2016-10-01T02:48:13.978350", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "bcc33618-d445-4d50-a116-3d7a0d8bb3c4"
+}
