@@ -1,0 +1,64 @@
+{
+    "age": 0.07722005797553601,
+    "age_err": 0.06907225972636076,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "66016-31",
+            "tag": "ok",
+            "uuid": "b04f55dc-3529-49ac-be9d-f72fbc851764"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66016-28",
+            "tag": "ok",
+            "uuid": "64fa1ccb-91d3-46eb-b339-34bfdd200ad5"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66016-07",
+            "tag": "ok",
+            "uuid": "ebaaee27-90f4-43c3-86a6-1e8e18b41a0f"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66016-05C",
+            "tag": "ok",
+            "uuid": "f83061ea-8dcb-4b7f-8aa1-874d3988de22"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.464e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "66016",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-293",
+    "kca": 0.34911168963163436,
+    "kca_err": 0.002023553670052727,
+    "kca_kind": "Weighted Mean",
+    "material": "K-Feldspar",
+    "mswd": 0.01806256704488376,
+    "name": "31",
+    "nanalyses": 4,
+    "project": "Gona",
+    "sample": "GON-ND-15-26",
+    "uuid": "fb6f5c75-ccbd-45e7-b03c-d352e5d1362b"
+}
