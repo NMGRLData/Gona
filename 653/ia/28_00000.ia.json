@@ -1,0 +1,226 @@
+{
+    "age": 0.5396400630120242,
+    "age_err": 0.004896909690567681,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "65328-25B",
+            "tag": "ok",
+            "uuid": "a73e3474-e0c2-49b6-b5e8-fd5fd63f2545"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-25A",
+            "tag": "ok",
+            "uuid": "80f62cd7-4b38-4d23-94ea-ea4b4418bcd0"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-24B",
+            "tag": "ok",
+            "uuid": "2e8c4062-bc72-4cd5-aefb-7cb3f7d884e7"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-23B",
+            "tag": "ok",
+            "uuid": "2e854874-5cce-442d-850e-c55d56df6807"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-23A",
+            "tag": "ok",
+            "uuid": "bc305f2a-dc58-4021-9c87-776e64297569"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-22B",
+            "tag": "omit",
+            "uuid": "67abc44d-c245-44f7-b986-9e17714177ca"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-22A",
+            "tag": "omit",
+            "uuid": "a5e29865-6f88-42a3-9fb8-12322ebc1a25"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-21B",
+            "tag": "ok",
+            "uuid": "deb1997d-15b4-44af-8999-db14a283e3fe"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-21A",
+            "tag": "omit",
+            "uuid": "de96cfe7-24bd-44ea-aa3a-5aa7590cea84"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-20B",
+            "tag": "omit",
+            "uuid": "65ecdb28-36a5-42d5-a2e4-124fabb1a5e2"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-19B",
+            "tag": "omit",
+            "uuid": "644223ea-2455-4f2d-803c-f6f5f617cb04"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-16A",
+            "tag": "omit",
+            "uuid": "028a30c4-faf8-4400-bec8-f73fe39768dc"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-15B",
+            "tag": "omit",
+            "uuid": "d631d28a-f173-430e-a7fb-c71c3d4e3f93"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-15A",
+            "tag": "omit",
+            "uuid": "ef60577f-3e9e-4639-9bd5-78c35ab98869"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-14B",
+            "tag": "omit",
+            "uuid": "1e2c2574-a916-4d0d-a4ca-967f7f8e4157"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-13B",
+            "tag": "ok",
+            "uuid": "be8450f3-c1c4-4bc1-8ea9-a53f3c72e8fd"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-13A",
+            "tag": "omit",
+            "uuid": "394cb13d-1b0f-4e02-8ba9-e5ee9c3d102c"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-12B",
+            "tag": "omit",
+            "uuid": "c78a285c-bd8d-4f62-a4fc-35a40a70c4af"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-12A",
+            "tag": "ok",
+            "uuid": "966fa7b8-fcfc-44cf-b52f-9ffa1cbc672b"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-11B",
+            "tag": "omit",
+            "uuid": "b50ef2c7-5d94-4a4a-be4f-e32ab4a1331d"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-11A",
+            "tag": "omit",
+            "uuid": "811ebc9d-792d-483d-b248-f02435527d68"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-07",
+            "tag": "omit",
+            "uuid": "04a93df1-d707-4cc6-82b6-d176a845459e"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-06D",
+            "tag": "omit",
+            "uuid": "e05c8a2f-b819-4525-868c-7e66bafacc56"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-06C",
+            "tag": "ok",
+            "uuid": "797efd88-2fe3-44c9-9a19-7b74cbbc00c0"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-05E",
+            "tag": "ok",
+            "uuid": "63707ad5-3770-42f4-be8e-fae597edc725"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-05D",
+            "tag": "omit",
+            "uuid": "59459f36-7a74-47af-a294-e99df332f41b"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-05C",
+            "tag": "omit",
+            "uuid": "8b36d1c5-0e3d-4ffd-ba31-ae86c5a313f1"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-05B",
+            "tag": "omit",
+            "uuid": "a87b94d8-5d02-4db0-ab03-8e5466ef9256"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-01C",
+            "tag": "omit",
+            "uuid": "7113399f-51aa-436f-8d08-6a27f19ca54d"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-01B",
+            "tag": "omit",
+            "uuid": "3aaa419c-a9b6-4b14-94af-1e3a1ef24bcb"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "65328-01A",
+            "tag": "omit",
+            "uuid": "c4d3af40-71f3-4621-9628-12e64ea03166"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.464e-10,
+        "lambda_k_err": 9.436630754670864e-13
+    },
+    "display_age_units": "Ma",
+    "identifier": "65328",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-286",
+    "kca": 12.912138554333378,
+    "kca_err": 3.2914703027012657,
+    "kca_kind": "Weighted Mean",
+    "material": "Feldspar",
+    "mswd": 1.834463712174468,
+    "name": "24",
+    "nanalyses": 7,
+    "project": "Gona",
+    "sample": "Gon ND-15-24",
+    "uuid": "8a848de5-f97e-4bc2-b466-6354c01a0dd9"
+}
