@@ -1,0 +1,160 @@
+{
+    "age": 0.5436096461361576,
+    "age_err": 0.003466566498480331,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "66013-29",
+            "tag": "ok",
+            "uuid": "b5dfb932-d51f-4987-869e-34044c3336eb"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-27",
+            "tag": "ok",
+            "uuid": "44f4260e-0656-4c8f-8d08-5bd479226b9c"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-25",
+            "tag": "ok",
+            "uuid": "da3c3f98-4422-4bc8-8b4e-0e37f33a0c54"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-21",
+            "tag": "ok",
+            "uuid": "31129d1b-131c-4725-bc33-ca5ad48616b7"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-20",
+            "tag": "ok",
+            "uuid": "df030813-cb04-402b-b179-57de90f4fcc0"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-19",
+            "tag": "ok",
+            "uuid": "e84d8525-7948-4d56-b20f-6ef898b99a71"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-18",
+            "tag": "ok",
+            "uuid": "d26fbf80-7e5d-4c8d-ae21-7ffed80c06ef"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-17",
+            "tag": "ok",
+            "uuid": "7c6ca05b-b5a6-4f0d-8004-6c26b588bde3"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-16",
+            "tag": "ok",
+            "uuid": "488473c0-84d4-40e4-874d-5f2a315cb3f1"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-15",
+            "tag": "ok",
+            "uuid": "197ad8b2-3e1b-48ec-ae99-94ab9311330c"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-14",
+            "tag": "ok",
+            "uuid": "200a9ab0-a8a4-4b85-a22d-c848352ca977"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-12",
+            "tag": "ok",
+            "uuid": "341ab0dc-6136-4387-97e2-844d5e50ea28"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-11",
+            "tag": "ok",
+            "uuid": "0f0b089f-cf16-43c2-8658-19feafb18b34"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-10",
+            "tag": "ok",
+            "uuid": "281a90ee-e7cd-4703-805f-35f601a9ca88"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-09",
+            "tag": "ok",
+            "uuid": "d6319c46-4120-4cb3-9328-bb2cddd44b69"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-08",
+            "tag": "ok",
+            "uuid": "ae22f581-8324-4144-8934-75a691453f01"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-05",
+            "tag": "ok",
+            "uuid": "508c1f96-ddda-4757-9f2e-06cf12fb3384"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-04B",
+            "tag": "ok",
+            "uuid": "773b99e9-d454-4ea6-b78c-4ed00b3e78c1"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-04A",
+            "tag": "ok",
+            "uuid": "c6afb3ff-e8c3-4f1f-8f9e-5509e9cbb6ed"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "66013-02B",
+            "tag": "ok",
+            "uuid": "991a38ca-a2e3-479c-ac84-8810943c67a7"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.464e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "66013",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-293",
+    "kca": 9.35120454682172,
+    "kca_err": 0.13468205318619914,
+    "kca_kind": "Weighted Mean",
+    "material": "K-Feldspar",
+    "mswd": 1.0815044559084448,
+    "name": "29",
+    "nanalyses": 20,
+    "project": "Gona",
+    "sample": "GON-ND-15-01",
+    "uuid": "882b2a06-18c4-4fc1-8f04-054d7707a131"
+}
