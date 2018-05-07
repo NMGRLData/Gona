@@ -1,68 +1,68 @@
 {
     "Ar36": {
-        "error": 0.00019718951565228962, 
-        "fit": "previous", 
+        "error": 0.00019718951565228962,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "record_id": "ba-01-J-2122"
             }
-        ], 
+        ],
         "value": 0.007544010417728638
-    }, 
+    },
     "Ar37": {
-        "error": 0.0047361220957807, 
-        "fit": "previous", 
+        "error": 0.0047361220957807,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "record_id": "ba-01-J-2122"
             }
-        ], 
+        ],
         "value": 0.028485368469157005
-    }, 
+    },
     "Ar38": {
-        "error": 0.0019200873909257575, 
-        "fit": "previous", 
+        "error": 0.0019200873909257575,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "record_id": "ba-01-J-2122"
             }
-        ], 
+        ],
         "value": 0.01908086657117625
-    }, 
+    },
     "Ar39": {
-        "error": 0.008899124444945242, 
-        "fit": "previous", 
+        "error": 0.008899124444945242,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "record_id": "ba-01-J-2122"
             }
-        ], 
+        ],
         "value": 0.07694256591214002
-    }, 
+    },
     "Ar40": {
-        "error": 0.007047397868413385, 
-        "fit": "previous", 
+        "error": 0.007047397868413385,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "record_id": "ba-01-J-2122"
             }
-        ], 
+        ],
         "value": 0.11212641646264658
-    }, 
+    },
     "Ar41": {
-        "error": 0.005849428733734265, 
-        "fit": "previous", 
+        "error": 0.005849428733734265,
+        "fit": "previous",
         "references": [
             {
-                "exclude": false, 
+                "exclude": false,
                 "record_id": "ba-01-J-2122"
             }
-        ], 
+        ],
         "value": 0.05025288541914724
     }
 }
